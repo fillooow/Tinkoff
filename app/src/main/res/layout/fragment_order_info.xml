@@ -3,7 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical">
+    android:orientation="vertical"
+    android:padding="8dp">
 
     <TextView
         android:id="@+id/tvPhoneOrder"
@@ -27,7 +28,7 @@
         android:id="@+id/latitudeOrder"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/order_latittude" />
+        android:text="@string/order_latitude" />
 
     <TextView
         android:id="@+id/tvLongitudeOrder"

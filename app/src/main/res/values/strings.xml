@@ -10,11 +10,11 @@
     <string name="orders">Заказы</string>
     <string name="profile">Профиль</string>
     <string name="map">Карта</string>
-    <string name="order_phone_number">Номер телефона</string>
-    <string name="order_name">ФИО</string>
-    <string name="order_contract">Договор</string>
-    <string name="order_longitude">Долгота</string>
-    <string name="order_latittude">Широта</string>
-    <string name="order_address">Адрес</string>
-    <string name="order_date">Дата</string>
+    <string name="order_phone_number">Номер телефона: +79222235522</string>
+    <string name="order_name">ФИО: Тестов Пользователь Банкович</string>
+    <string name="order_contract">Договор: 2380093-212</string>
+    <string name="order_longitude">Долгота: 65.12341</string>
+    <string name="order_latitude">Широта: 58.2193</string>
+    <string name="order_address">Адрес: Мира 32</string>
+    <string name="order_date">Дата: 02 декабря 2018г., 16:18</string>
 </resources>
