@@ -117,7 +117,7 @@ class OrdersFragment : Fragment(), ShortOrdersAdapter.OnRecyclerViewItemClickedL
                     for (item in it){
                         fullOrderList.add(item)
                         ordersList.add(
-                                ShortOrder(item.name ?: "Имя не указано",
+                                ShortOrder(item.name ?: "Имя р не указано",
                                 item.phone ?: "телефон не указан",
                                 item.dateTime))
                     }
